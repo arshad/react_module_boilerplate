@@ -1,0 +1,3 @@
+example:
+  js:
+    ./assets/public/bundle.js: {}

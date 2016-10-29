@@ -1,0 +1,5 @@
+name: 'React module boilerplate'
+description: 'React boilerplate for Drupal 8 module.'
+type: module
+core: 8.x
+package: Development
