@@ -4,11 +4,10 @@ Boilerplate for Drupal 8 module with React, ES6, Babel and Webpack.
 ## Installation
 
 1. Clone this repository.
-2. Replace react_module_boilerplate with your module_name.
-3. Run `npm install`
-4. When done, run `npm run start`
-5. Go to Structure --> Block Layout.
-6. Place the Hello React block in a region.
+2. Run `npm install`
+3. When done, run `npm run start`
+4. Go to Structure --> Block Layout.
+5. Place the Hello React block in a region.
 
 ## Usage
 
